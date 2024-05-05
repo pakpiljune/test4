@@ -1,5 +1,3 @@
 # Git Test
-- Bug_1 fixed
-- Bug_2 fixed
+- Bug fixed
 - Hot fixed
-
